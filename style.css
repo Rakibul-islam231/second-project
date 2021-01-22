@@ -1,0 +1,55 @@
+.navbar-brand img{
+    height: 50%;
+    width: 50%;
+}
+.h1{
+    color: rgb(240, 100, 49);
+}
+.h1-1{
+    color: rgb(34, 26, 90);
+}
+.lo{
+    
+    width: 20%;
+}
+.nav{
+    background-color: rgb(253, 226, 213);
+}
+.h4-e{
+    color: rgb(240, 100, 49);
+}
+.shoe-card{
+    border: 0;
+}
+.card-footer{
+    background-color: white;
+    border: 0;
+}
+.card-2{
+    border: 0;
+}
+.last-part{
+    border: 0px solid;
+    margin: 10px;
+    height: 100px;
+    width: 300px;
+    border-radius: 15px;
+    background-color: rgb(255, 249, 249);
+}
+.last-part img{
+    height: 70px;
+    width: 70px;
+    margin-top:15px ;
+    margin-left: 15px;
+}
+.last-part p{
+    float: right;
+    margin-right:30px ;
+    margin-top:20px ;
+    font-size: 13px;
+}
+.last-img img{
+    height: 50%;
+    width: 50%;
+    float: right;
+}
